@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 255, 128);
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#sphere{
+    background-color: rgb(249, 244, 244);
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    box-shadow: inset 15px 0px 40px 0px black, inset 20px 0px 40px 0px black;    
+    
+}
